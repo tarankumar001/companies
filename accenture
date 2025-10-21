@@ -1,0 +1,47 @@
+Password – HTML, CSS, JavaScript
+
+You are given a task in your college group project to add validation in the password fields of a form.
+The form has three fields: First Name, Password, and Re-type Password.
+Your task is to complete the HTML, CSS, and JavaScript code to implement the following objectives:
+
+Objectives:
+
+Create a button with id = "Submit" that will call the passwordformValidation() function when clicked on it.
+
+Give a border-radius of 5px to all the input tags.
+
+First Name is to be made a mandatory field.
+If the field remains empty, the HTML content of the paragraph tag with id = "demo" should be updated with the message:
+"First Name has to be entered".
+
+Your project requires to check values of Password and Re-type Password fields to be exactly same.
+In case the values differ, then the message "Passwords do not match" should be displayed inside the paragraph tag with id = "demo"`.
+
+
+-----------------------------------------
+
+The request in the image is to complete a Profile Page for a user to update their name and email, with three specific objectives:
+
+Button Content: Add the text "Save Changes" to the button with the ID saveBtn.
+
+Button Styling:
+
+Set the background color of the button with ID saveBtn to #28a745.
+
+Set the font-size of the button text to 18px.
+
+JavaScript Validation:
+
+Add JavaScript validation to check if the name entered in the input field has a minimum of 3 characters.
+
+If the validation fails (the name is less than 3 characters), display the message "Name must be at least 3 characters long" in the span with the ID nameError.
+-----------------------
+
+The image outlines the task of creating a simple Shopping Cart web application and specifies three objectives to complete the task:
+
+Create Add to Cart Buttons: Create an "Add to Cart" button for every item (Chips, Soda, and Cookies) in the Items Table under the "Action" Column. These buttons must have the unique IDs: addToCartChips, addToCartSoda, and addToCartCookies respectively.
+
+Style Tables: Give both tables (presumably the Items Table and the Shopping Cart Table) a border color of #0056b3.
+
+Implement JavaScript Logic: Complete the JavaScript code to update the quantity of each item in the Shopping Cart Table whenever its respective Add to Cart button is clicked.
+--------------------------
