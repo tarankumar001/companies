@@ -45,3 +45,28 @@ Style Tables: Give both tables (presumably the Items Table and the Shopping Cart
 
 Implement JavaScript Logic: Complete the JavaScript code to update the quantity of each item in the Shopping Cart Table whenever its respective Add to Cart button is clicked.
 --------------------------
+Create 3 buttons labeled:
+
+Primary
+
+Accent
+
+Ghost
+
+Each button should have a distinct color theme:
+
+Primary → Blue tone
+
+Accent → Orange or red tone
+
+Ghost → Transparent with border (subtle style)
+
+On click, each button should change the website’s theme color to match its style.
+
+Example: Clicking Primary makes the page blue-themed,
+Clicking Accent makes it orange-themed,
+Clicking Ghost resets or applies a neutral theme.
+
+Use CSS variables or classes to control the theme colors dynamically.
+
+The buttons should look modern — rounded corners, smooth hover transitions, and possibly slight shadows or gradients.
